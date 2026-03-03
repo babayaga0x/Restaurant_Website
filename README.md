@@ -69,13 +69,9 @@ Then visit `http://localhost:8080`.
 ```
 Restaurant_Website/
 ├── index.html          # Main entry point
-├── css/
-│   └── style.css       # Global and component styles
-├── js/
-│   └── main.js         # Interactive behavior
-├── assets/
-│   ├── images/         # Photos of dishes, interior, etc.
-│   └── icons/          # UI icons
+├── styles/
+│   └── styles.css       # Global and component styles
+├── imgs/         # Photos of dishes, interior, etc.
 └── README.md
 ```
 

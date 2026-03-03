@@ -86,7 +86,3 @@ This project can be used as:
 - A starting point to add a backend (e.g., online reservations or orders)
 
 ---
-
-## 📄 License
-
-Open source — free to use, fork, and modify for your own projects.
